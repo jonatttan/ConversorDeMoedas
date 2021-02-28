@@ -14,7 +14,6 @@ Cotação no momento da criação:
 
 ##### Observações:
 
-Não há recursos de armazenamento de dados, localização e outros.
-
+Não há recursos de armazenamento de dados e localização.
 
 
