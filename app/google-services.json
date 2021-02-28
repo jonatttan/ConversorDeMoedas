@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765553984288",
+    "project_id": "com-praticas-conversorvalores",
+    "storage_bucket": "com-praticas-conversorvalores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765553984288:android:a46e79957071887767cd45",
+        "android_client_info": {
+          "package_name": "com.praticas.conversorvalores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765553984288-d9g2urv5o5dbpmqpfg90ov65qbi5evef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHWg10a3ZCHGX_3aOPOuY9n8iNuaR7x_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765553984288-d9g2urv5o5dbpmqpfg90ov65qbi5evef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
